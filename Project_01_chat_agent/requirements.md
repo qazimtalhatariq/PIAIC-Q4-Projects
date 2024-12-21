@@ -4,7 +4,7 @@
 
 #### **Objective:**
 
-Create a chatbot prototype that talks to users, remembers what they say during conversation, and helps them solve problems.
+Create a chatbot prototype that can talks to users, remembers what they say during conversation, and helps them solve problems.
 
 ---
 
